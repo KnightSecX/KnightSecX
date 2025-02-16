@@ -1,47 +1,45 @@
-#👨‍💻 About Me#
+# 👨‍💻 About Me  
 
+Hi, I'm **Shashank Shekher Mishra (@KnightSecX)** 👋  
 
-Hi, I'm **Shashank Shekher Mishra (@KnightSecX)** 👋
+🔹 **Tech Enthusiast | AI & Cybersecurity Learner | Ethical Hacking Enthusiast**  
+🔹 Passionate about automation, scripting, and solving complex problems  
+🔹 Experienced in **Android Troubleshooting, Windows OS, Python, JavaScript**  
+🔹 **Chess Player ♟️ (1400+ rating), Rubik's Cube Lover, and Educator 📚**  
 
-🔹 Tech Enthusiast | AI & Cybersecurity Learner | Ethical Hacking Enthusiast
+---
 
-🔹 Passionate about automation, scripting, and solving complex problems
+## 🚀 Skills & Expertise  
 
-🔹 Experienced in Android Troubleshooting, Windows OS, Python, JavaScript
+✔ **Programming & Automation**: Python, JavaScript, HTML  
+✔ **Cybersecurity & Ethical Hacking**: Enthusiast with hands-on troubleshooting  
+✔ **OS Expertise**: Windows 7/8/10/11, Android (Advanced Debugging & Customization)  
+✔ **Editing & Content Creation**: CapCut, InShot, VN Editor, PixelLab  
 
-🔹 Chess Player ♟️ (1400+ rating), Rubik's Cube Lover, and Educator📚
+---
 
-**🚀 Skills & Expertise**
+## 📜 License  
 
-✔ Programming & Automation: Python, JavaScript, HTML
+This repository is licensed under the **MIT License**. See [LICENSE](https://github.com/KnightSecX/Template-Repo) for details.  
 
-✔ Cybersecurity & Ethical Hacking: Enthusiast with hands-on troubleshooting
+---
 
-✔ OS Expertise: Windows 7/8/10/11, Android (Advanced Debugging & Customization)
+## 📫 Let's Connect  
 
-✔ Editing & Content Creation: CapCut, InShot, VN Editor, PixelLab
+📧 **Email**: mshashankshekhar25@gmail.com  
+📌 **GitHub**: [@KnightSecX](https://github.com/KnightSecX)  
+📢 **Telegram**: [t.me/BLESSEDSOULM](https://t.me/BLESSEDSOULM)  
 
+---
 
-**📜 License**
+## 💖 Support & Contributions  
 
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+⭐ **Star this repository** if you find it useful! 🚀  
+💡 **Contributions, feedback, and suggestions are always welcome!**  
 
-**📫 Let's Connect**
+---
 
-📧 Email: mshashankshekhar25@gmail.com
-
-📌 GitHub: @KnightSecX
-
-📢 Telegram: t.me/BLESSEDSOULM
-
-**💖 Support & Contributions**
-
-⭐ Star this repository if you find it useful! 🚀
-
-💡 Contributions, feedback, and suggestions are always welcome!
-
-**🚀 "Breaking Barriers, Securing Systems!"**
-
-_🔹 Cybersecurity | AI | Ethical Hacking | Innovation_
+### **🚀 "Breaking Barriers, Securing Systems!"**  
+🔹 **Cybersecurity | AI | Ethical Hacking | Innovation**  
 
 _💡 "Tech is not just a field for me—it's a playground where I love to explore, create, and innovate!"_
