@@ -1,6 +1,7 @@
-👨‍💻 About Me
+#👨‍💻 About Me#
 
-Hi, I'm Shashank Shekher Mishra (@KnightSecX) 👋
+
+Hi, I'm **Shashank Shekher Mishra (@KnightSecX)** 👋
 
 🔹 Tech Enthusiast | AI & Cybersecurity Learner | Ethical Hacking Enthusiast
 
@@ -10,7 +11,7 @@ Hi, I'm Shashank Shekher Mishra (@KnightSecX) 👋
 
 🔹 Chess Player ♟️ (1400+ rating), Rubik's Cube Lover, and Educator📚
 
-🚀 Skills & Expertise
+**🚀 Skills & Expertise**
 
 ✔ Programming & Automation: Python, JavaScript, HTML
 
@@ -21,7 +22,11 @@ Hi, I'm Shashank Shekher Mishra (@KnightSecX) 👋
 ✔ Editing & Content Creation: CapCut, InShot, VN Editor, PixelLab
 
 
-📫 Let's Connect
+**📜 License**
+
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+**📫 Let's Connect**
 
 📧 Email: mshashankshekhar25@gmail.com
 
@@ -29,5 +34,14 @@ Hi, I'm Shashank Shekher Mishra (@KnightSecX) 👋
 
 📢 Telegram: t.me/BLESSEDSOULM
 
+**💖 Support & Contributions**
 
-💡 "Tech is not just a field for me—it's a playground where I love to explore, create, and innovate!"
+⭐ Star this repository if you find it useful! 🚀
+
+💡 Contributions, feedback, and suggestions are always welcome!
+
+**🚀 "Breaking Barriers, Securing Systems!"**
+
+_🔹 Cybersecurity | AI | Ethical Hacking | Innovation_
+
+_💡 "Tech is not just a field for me—it's a playground where I love to explore, create, and innovate!"_
