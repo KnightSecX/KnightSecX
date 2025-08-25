@@ -42,4 +42,5 @@ This repository is licensed under the **MIT License**. See [LICENSE](https://git
 ### **🚀 "Breaking Barriers, Securing Systems!"**  
 🔹 **Cybersecurity | AI | Ethical Hacking | Innovation**  
 
-_💡 "Tech is not just a field for me—it's a playground where I love to explore, create, and innovate!"_
+_💡 "Tech is not just a field for me—it's a playground where I love to explore, create, and innovate!"_ 
+_Rewriting Endgames_
